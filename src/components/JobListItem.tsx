@@ -4,7 +4,7 @@ import React from "react";
 import companyLogoPlaceholder from "@/assets/company-logo-placeholder.png";
 import { BanknoteIcon, Briefcase, Clock, Globe2, MapPin } from "lucide-react";
 import { formatMoney, relativeDate } from "@/lib/utils";
-import Badge from "../Badge";
+import Badge from "./Badge";
 type JobListItem = {
   job: Job;
 };
