@@ -37,7 +37,7 @@ export function generateMetadata({
       type,
       location,
       remote: remote === "true",
-    })} | Flow Jobs`,
+    })} | Jobs`,
   };
 }
 
