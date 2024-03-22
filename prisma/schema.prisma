@@ -22,7 +22,7 @@ model Job {
   type             String
   locationType     String
   location         String?
-  description      String
+  description      String?
   salary           Int
   companyName      String
   applicationEmail String?
